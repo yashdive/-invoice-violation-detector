@@ -59,7 +59,8 @@ invoice-violation-detector/
 
 > Model interpretability is key to building trust.
 
-![SHAP Summary]("./outputs/SHAP Summary.png")
+![image](https://github.com/user-attachments/assets/16a20870-033b-4f7b-8f72-185799e18790)
+
 
 
 - `requires_auth`, `is_duplicate`, and key terms like `"without"` have the strongest influence on the model’s decision.
